@@ -3,9 +3,9 @@
 # Discord IDs
 # Replace values with your own.
 MUDAE_ID = 432610292342587392  # ID of Mudae bot
-CHANNEL_ID = 432610292342587392  # ID of claiming channel
-SERVER_ID = 432610292342587392  # ID of Discord server
-USER_ID = 432610292342587392  # ID of main user
+CHANNEL_ID = 1028679705056002139  # ID of claiming channel
+SERVER_ID = 1027914386104406026  # ID of Discord server
+USER_ID = 444749186097741824  # ID of main user
 
 # Bot token
 BOT_TOKEN = ""
@@ -13,12 +13,12 @@ BOT_TOKEN = ""
 # Command prefix for Mudae and roll command to use.
 # Default setting below does $m
 COMMAND_PREFIX = "$"
-ROLL_COMMAND = "m"
+ROLL_COMMAND = "w"
 
 #  User login info.
 #  This is not sent to any external server, but only uses to login to browser Discord.
 #  See Browser.browser_login() (specifically line 58-61) in browsers.py to see how it is exactly used.
-LOGIN_INFO = ("example@example.com", "password")
+LOGIN_INFO = ("haidanghay123@outlook.com", "ahihidocho")
 
 # Time between claim resets, in minutes.
 CLAIM_DURATION = 180
